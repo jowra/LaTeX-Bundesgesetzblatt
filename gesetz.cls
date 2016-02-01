@@ -32,10 +32,10 @@
 \hypersetup{
 	colorlinks			=	false,
 	pdfborder			=	{0 0 0},
-	bookmarksopen		=	true,
-	bookmarksnumbered	=	true,
-	pdfstartview		=	FitH,
-	pdfauthor			=	{Amt Britz-Chorin-Oderberg},
+	bookmarksopen			=	true,
+	bookmarksnumbered		=	true,
+	pdfstartview			=	FitH,
+	pdfauthor			=	{Autor},
 	pdfsubject			=	{Kommunalrecht, Ortsrecht, Satzungen}
 }
 
